@@ -1,0 +1,9 @@
+panadas
+numpy
+seaborn
+scikit-learn
+joblib
+shap
+streamlit
+
+-e .

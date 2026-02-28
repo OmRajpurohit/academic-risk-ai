@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+
+venv/
+__pycache__/
+models/*.pkl
+*.egg-info
+
 __pycache__/
 *.py[codz]
 *$py.class
